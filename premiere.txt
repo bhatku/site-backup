@@ -1,0 +1,5 @@
+ystem requirements | July 2018 (12.1.2) release of Premiere Pro CC
+Windows
+
+    Multicore processor with 64-bit support
+    Microsoft Windows 7 with Service Pack 1 (64 bit) or Windows 8.1 (64 bit), or Windows 10 (64 bit). However Windows 10 is recommended. However, Windows 10 build numbers 1507 and 1807 (running on OS build 17134.165) are not supported.
